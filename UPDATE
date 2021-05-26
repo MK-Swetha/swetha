@@ -1,0 +1,10 @@
+{
+    "token": "90935626|-31948840604633331|90933399",
+    "cmd": "UPDATE",
+    "dbName": "Employee",
+    "rel": "Emp-Rel",
+    "jsonStr":{
+      "1":{"mobile":112212212}
+      "2":{"name":MK SwethaNaidu}
+    }
+}
